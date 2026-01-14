@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Danger Danger",
+  "base_artist": "FZMZ",
+  "createdAt": "2026-01-14T02:41:35.514484Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Danger Danger",
+      "artist": "Crucified Barbara",
+      "has_synced": true,
+      "path": "select/01_Danger_Danger_Crucified_Barbara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Danger Danger / Bang Bang",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/02_Danger_Danger___Bang_Bang_Various.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Danger Danger",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/03_Danger_Danger_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Danger ! Danger !",
+      "artist": "Sonic Boom Six",
+      "has_synced": true,
+      "path": "select/04_Danger_!_Danger_!_Sonic_Boom_Six.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Danger! Danger!",
+      "artist": "Sonic Boom Six",
+      "has_synced": true,
+      "path": "select/05_Danger!_Danger!_Sonic_Boom_Six.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Danger, Danger",
+      "artist": "Silent Circle",
+      "has_synced": false,
+      "path": "select/06_Danger,_Danger_Silent_Circle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Danger Danger",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/07_Danger_Danger_MIYAVI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Danger, Danger",
+      "artist": "Alan Schmuckler feat. My Little Pony",
+      "has_synced": false,
+      "path": "select/08_Danger,_Danger_Alan_Schmuckler_feat._My_Little_Pony.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Danger, Danger",
+      "artist": "Alan Schmuckler",
+      "has_synced": true,
+      "path": "select/09_Danger,_Danger_Alan_Schmuckler.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Danger Danger",
+      "artist": "Max Him",
+      "has_synced": false,
+      "path": "select/10_Danger_Danger_Max_Him.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Danger Danger",
+      "artist": "FZMZ",
+      "has_synced": true,
+      "path": "select/11_Danger_Danger_FZMZ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Danger Danger (feat. icy)",
+      "artist": "FZMZ",
+      "has_synced": true,
+      "path": "select/12_Danger_Danger_(feat._icy)_FZMZ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Danger Danger",
+      "artist": "Kira Isabella",
+      "has_synced": true,
+      "path": "select/13_Danger_Danger_Kira_Isabella.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Danger Danger - Racing Mix",
+      "artist": "Silent Circle",
+      "has_synced": true,
+      "path": "select/14_Danger_Danger_-_Racing_Mix_Silent_Circle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Danger Danger (Racing Mix)",
+      "artist": "Silent Circle",
+      "has_synced": true,
+      "path": "select/15_Danger_Danger_(Racing_Mix)_Silent_Circle.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Danger Danger",
+      "artist": "FZMZ",
+      "has_synced": true,
+      "path": "select/16_Danger_Danger_FZMZ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Danger Danger (feat. icy)",
+      "artist": "FZMZ",
+      "has_synced": true,
+      "path": "select/17_Danger_Danger_(feat._icy)_FZMZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Danger Danger",
+      "artist": "FZMZ, icy",
+      "has_synced": false,
+      "path": "select/pl_01_Danger_Danger_FZMZ,_icy.txt"
+    }
+  ]
+}
